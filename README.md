@@ -38,6 +38,7 @@ git clone https://github.com/0as01ds/fabric-language-cpp.git
 cd fabric-language-cpp
 ./gradlew build
 
+```
 ⚠️ Дисклеймер
 
 Мод создан в образовательных целях. Использование на серверах может нарушать их правила. Автор не несёт ответственности.
