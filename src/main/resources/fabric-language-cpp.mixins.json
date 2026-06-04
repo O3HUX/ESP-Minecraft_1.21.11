@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "net.fabricmc.language.cpp.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityGlowMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
