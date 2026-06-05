@@ -34,7 +34,7 @@
 🔧 Сборка из исходников
 
 ```bash
-git clone https://github.com/0as01ds/fabric-language-cpp.git
+( скачиваем сурсы)
 cd fabric-language-cpp
 ./gradlew build
 
