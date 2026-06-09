@@ -1,4 +1,4 @@
-🔍 ESP — WallHack для Minecraft 1.21.11
+🔍 ‘**ESP** - WallHack для Minecraft 1.21.11‘
 
 Подсветка игроков через стены. Работает на клиенте.
 
@@ -34,7 +34,7 @@
 🔧 Сборка из исходников
 
 ```bash
-( скачиваем сурсы)
+( скачиваем сурсы )
 cd fabric-language-cpp
 ./gradlew build
 
